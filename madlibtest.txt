@@ -1,0 +1,21 @@
+The Haunted House
+It was time to go to the haunted ${answers.noun1} in our ${answers.noun2}. Nobody goes there anymore, and it's ${answers.adj1} and ${answers.adj2}. It's considered as ${answers.adj2} from ${answers.noun4} who've been in there. Well, it's time to find out for myself. 
+I walked with my ${answers.person1} ${answers.femaleName} across the front ${answers.noun5}. We came to the ${answers.noun6}, and we didn't even have to open it. It swung open by itself. 
+${answers.verb1} with fear, we ${answers.verb2} inside the ${answers.noun7}. ${answers.noise}! The ${answers.noun8} shut behind us. It was almost pitch black in the ${answers.noun9}. There were no ${answers.noun10}. It looked like a creepy tower or something, with a ${answers.adj4} ${answers.noun11}. ${answers.femaleName} and I ${answers.verb3} inside, ${answers.verb4} not to be heard. 
+" I wish we had brought ${answers.noun12}, I said to ${answers.femaleName}, because we can barely see a ${answers.noun13} I saw ${answers.femaleName} nod, through all the ${answers.noun14} and darkness in the ${answers.noun15}. ${answers.adj5} noises filled the *Noun 16 *. A *Noun 17* swung open a few *Type of measurement* away from us. `*${answers.femaleName}*` and I were too curious, so we decided to go in. 
+It seemed like a *Room in house*. There was a *Adjective 6* *Noun 18* *Verb 5 - Present ends in ING* in the middle, by itself. No bedside *Noun 19*, *Noun 20*, anything. Just a *Noun 21*. Wouldn't want to *Verb 6 - Base Form* in here, eh I said, trying to make `*${answers.femaleName}*` *Verb 7 - Base Form*. But she wasn't *Verb 8- Present ends in ING*. She's *Verb 9- Present ends in ING* at me in horror. It was just a joke I begin to say, but it turns out she's *Verb 9- Present ends in ING* at something behind me. Confused, I turn around, and there's a ghost of a *Noun 22* *Verb 10 - Present ends in ING* there. *Adjective 7* *Noun 23 - Plural* filled the *Noun 24*. `*${answers.femaleName}*` and I were about to *Verb 11 - Base Form*, when it sees our *Verb 12 - Present ends in ING* and comes after us! We ran and ran, with the *Adjective 7* *Noun 25 - Plural* still *Verb 13 - Present ends in ING* our *Part of body plural*. We slam into a *Noun 26*, and we *Verb 14 - Base Form* back, *Verb 15 - Present ends in ING* at the *Noun 27*. Then the *Noun 28* opens. It gets distracted, and turns around. We try to *Verb 16- Base Form* to the side of the *Noun 29*, but to no avail. The *Noun30* *Verb 17 - Present ends in S* back and gives us a look that says I'LL GET YOU BACK We try to see who it is in the *Noun31*, and it's *Person2*, standing there, calling my *Noun32*! I *Verb 18 - Base Form* up with `*${answers.femaleName}*`, and we *Verb 19 - Base Form* over to her/him. She/he gives us both a *Adjective 8* *Verb 20 - Base Form* and we *Verb 21 - Base Form* back *Noun33*. 
+Now I believe all the tales about that *Adjective9* *Noun34*. 
+
+
+ 
+
+And I've *Verb22 - past Tense* to tell the *Noun36*.
+
+
+	[
+	{
+	type: "input",
+	message: "Enter a **",
+	name: "noun1"
+	},
+	]
